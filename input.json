@@ -1,0 +1,25 @@
+{
+    "account": {
+        "cardIsActive": true,
+        "limit": "100.00",
+        "blacklist": "Apple",
+        "isWhitelisted": true
+    },
+
+    "transaction": {
+        "merchant": "Apple", 
+        "amount": "20.00", 
+        "time": "06-07-2018 18:28" 
+
+    },
+
+    "lastTransaction": [
+        {
+            "transaction": {
+                "merchant": "Apple", 
+                "amount": "20.00", 
+                "time": "06-07-2018 18:28" 
+            }
+        }
+    ]
+}
