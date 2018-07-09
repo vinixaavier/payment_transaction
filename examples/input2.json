@@ -1,0 +1,76 @@
+{
+    "account": {
+        "cardIsActive": true,
+        "limit": 200.00,
+        "blacklist": [
+            "iPlace",
+            "Brooksfield",
+            "Nike"
+        ],
+        "isWhitelisted": false
+    },
+
+    "transaction": {
+        "merchant": "KaBuM!", 
+        "amount": 500.00, 
+        "time": "2018-04-09T23:00:00Z"
+    },
+
+    "lastTransaction": [
+        {        
+            "merchant": "KaBuM!", 
+            "amount": 500.00, 
+            "time": "2018-04-09T23:00:00Z"
+        },
+        {        
+            "merchant": "KaBuM!", 
+            "amount": 500.00, 
+            "time": "2018-04-09T23:00:00Z"
+        },
+        {        
+            "merchant": "KaBuM!", 
+            "amount": 500.00, 
+            "time": "2018-04-09T23:00:00Z"
+        },
+        {        
+            "merchant": "KaBuM!", 
+            "amount": 500.00, 
+            "time": "2018-04-09T23:00:00Z"
+        },
+        {        
+            "merchant": "KaBuM!", 
+            "amount": 500.00, 
+            "time": "2018-04-09T23:00:00Z"
+        },
+        {        
+            "merchant": "KaBuM!", 
+            "amount": 500.00, 
+            "time": "2018-04-09T23:00:00Z"
+        },
+        {        
+            "merchant": "KaBuM!", 
+            "amount": 500.00, 
+            "time": "2018-04-09T23:00:00Z"
+        },
+        {        
+            "merchant": "KaBuM!", 
+            "amount": 500.00, 
+            "time": "2018-04-09T23:00:00Z"
+        },
+        {        
+            "merchant": "KaBuM!", 
+            "amount": 500.00, 
+            "time": "2018-04-09T23:00:00Z"
+        },
+        {        
+            "merchant": "KaBuM!", 
+            "amount": 500.00, 
+            "time": "2018-04-09T23:00:00Z"
+        },
+        {        
+            "merchant": "KaBuM!", 
+            "amount": 500.00, 
+            "time": "2018-04-09T23:00:00Z"
+        }
+    ]
+}

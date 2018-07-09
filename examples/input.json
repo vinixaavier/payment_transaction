@@ -1,0 +1,20 @@
+{
+    "account": {
+        "cardIsActive": false,
+        "limit": 1000.00,
+        "blacklist": [
+            "iPlace",
+            "Brooksfield",
+            "Nike"
+        ],
+        "isWhitelisted": true
+    },
+
+    "transaction": {
+        "merchant": "KaBuM!", 
+        "amount": 500.00, 
+        "time": "2018-04-09T23:00:00Z"
+    },
+
+    "lastTransaction": []
+}

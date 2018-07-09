@@ -78,8 +78,9 @@ func CheckInterval(qtd int, interval float64, moment string, lastTransaction []T
 } // if true, approved
 
 // IsWhitelisted The account of transaction is whitelisted
-func IsWhitelisted(isWhitelisted bool) {
+func IsWhitelisted(isWhitelisted bool) bool {
 	if isWhitelisted {
-		return
+		return true
 	}
+	return false
 }
