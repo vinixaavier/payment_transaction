@@ -11,7 +11,7 @@ func TestCheckCard(t *testing.T) {
 	}
 }
 
-func TestCheckIsWhitelisted(t *testing.T) {
+func TestIsWhitelisted(t *testing.T) {
 	check := IsWhitelisted(false)
 	if check == true {
 		t.Error("Expected false, got ", check)
