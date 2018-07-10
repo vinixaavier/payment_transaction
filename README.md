@@ -63,7 +63,7 @@ Make a payment.
         "time": "String"
     },
     "lastTransaction":
-        [ <Transaction> ]
+        [ "<Transaction>" ]
     }
 }
 ```
