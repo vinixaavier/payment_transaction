@@ -1,4 +1,6 @@
-# Payment Transaction Program
+# Payment Transaction
+
+[![Golang](https://cdn.iconverticons.com/files/png/dcb75f27d19254da_256x256.png)](https://golang.org/doc/code.html)
 
 Payment transaction is a Restful API written in Golang, which simulates a purchase made with card and according to certain rules, approve or not approve the financial transaction.
 
