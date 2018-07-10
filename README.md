@@ -89,6 +89,6 @@ This API considers the following rules to be applied at the time of the transact
 5. Merchant blacklist.
 6. There should not be more than 3 transactions on a 2 minutes interval
 
-## ToDo
+## To Do
 
 1. Include `application/json` header.
